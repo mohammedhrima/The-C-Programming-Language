@@ -8,6 +8,5 @@ int main(void)
 	char *start = str;
 	while (*str)
 		str++;
-	printf("%d\n", str - start);
-	
+	printf("%d\n", str - start);	
 }

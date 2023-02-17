@@ -1,0 +1,4 @@
+the Kernal is the one who handle input and output
+char str[] = "abcdefg" // this is an array
+char *str = "abcdefg" // this is a pointer
+page 132
